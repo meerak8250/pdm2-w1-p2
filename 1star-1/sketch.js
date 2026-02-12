@@ -1,4 +1,5 @@
 const usernames = new Set([]);
+let textBox;
 let submitButton;
 
 function setup() {
